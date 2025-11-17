@@ -1,4 +1,4 @@
-# Dhito Aryo Trengginas — Sistem Manajemen Kontak (Tugas Akhir Praktikum PW)
+# Dhito Aryo Trengginas — Sistem Manajemen Kontak
 
 [![PHP](https://img.shields.io/badge/PHP-Native-blue.svg)](https://www.php.net/) [![HTML](https://img.shields.io/badge/HTML-5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-3-green.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
