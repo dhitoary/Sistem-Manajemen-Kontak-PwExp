@@ -10,7 +10,7 @@ Selamat datang! Ini adalah repository untuk Tugas Akhir Praktikum Pemrograman We
 
 Saya **Dhito Aryo Trengginas** — Mahasiswa Teknik Informatika (NPM **2315061015**).
 
-Proyek ini adalah implementasi dari Modul Praktikum Percobaan 4: PHP & Manipulasi Form. [cite_start]Tugas ini menuntut pembuatan aplikasi web dinamis untuk mengelola data kontak, yang mencakup semua aspek dasar **CRUD (Create, Read, Update, Delete)** dan **Session Management** [cite: 578-582].
+Proyek ini adalah implementasi dari Modul Praktikum Percobaan 4: PHP & Manipulasi Form. Tugas ini dilakukan pembuatan aplikasi web dinamis untuk mengelola data kontak, yang mencakup semua aspek dasar **CRUD (Create, Read, Update, Delete)** dan **Session Management**.
 
 - **Bahasa:** PHP, HTML5, CSS3
 - **Data Storage:** PHP `$_SESSION`. Seluruh data kontak disimpan di dalam sesi server.
@@ -22,8 +22,8 @@ Proyek ini adalah implementasi dari Modul Praktikum Percobaan 4: PHP & Manipulas
 
 Sistem ini mencakup fungsionalitas penuh untuk manajemen kontak:
 
-* [cite_start]**Session Management:** Sistem login dan logout aman menggunakan `$_SESSION` PHP [cite: 501-576].
-* [cite_start]**Create:** Menambah kontak baru dengan validasi form (nama, email, telepon) [cite: 281-383].
+* [cite_start]**Session Management:** Sistem login dan logout aman menggunakan `$_SESSION` PHP.
+* [cite_start]**Create:** Menambah kontak baru dengan validasi form (nama, email, telepon).
 * **Read:** Menampilkan semua data kontak dalam tabel yang rapi.
 * **Update:** Mengedit data kontak yang sudah ada.
 * **Delete:** Menghapus data kontak dengan validasi konfirmasi dan token (Anti-CSRF).
