@@ -36,37 +36,31 @@ Berikut adalah beberapa tampilan dari aplikasi:
 
 ### 1. Halaman Login
 Halaman untuk autentikasi pengguna.
-*(Letakkan screenshot Anda di `Images/login.png`)*
-![Halaman Login](Images/login.png)
+![Halaman Login](Images/Login.png)
 
 ### 2. Dashboard Utama
 Menampilkan daftar semua kontak yang tersimpan di dalam sesi.
-*(Letakkan screenshot Anda di `Images/dashboard.png`)*
-![Dashboard](Images/dashboard.png)
-![DashboardTambah](Images/dashboardtambah.png)
+![Dashboard](Images/Dashboard.png)
+![DashboardTambah](Images/DashboardTambah.png)
 
 ### 3. Form Tambah & Validasi
 Form untuk menambah data baru, dilengkapi validasi error-handling.
-*(Letakkan screenshot Anda di `Images/tambah.png`)*
-![Form Tambah](Images/tambah.png)
-![Email Gagal](Images/email.png)
-![Telepon Gagal](Images/telepon.png)
+![Form Tambah](Images/Tambah.png)
+![Email Gagal](Images/Email.png)
+![Telepon Gagal](Images/Telepon.png)
 
 ### 4. Form Edit
 Form untuk memperbarui data kontak yang sudah ada.
-*(Letakkan screenshot Anda di `Images/edit.png`)*
-![Form Edit](Images/edit.png)
+![Form Edit](Images/Edit.png)
 
 ### 5. Validasi Hapus
 Pesan konfirmasi (alert) sebelum data dihapus secara permanen.
-*(Letakkan screenshot Anda di `Images/hapus.png`)*
-![Validasi Hapus](Images/hapus.png)
+![Validasi Hapus](Images/Hapus.png)
 
 ### 6. Tampilan Data Session (Debug)
 Tampilan *real-time* dari data mentah `$_SESSION` yang ada di server, menunjukkan data kontak tersimpan.
-*(Letakkan screenshot Anda di `Images/session.png`)*
-![Tampilan Session](Images/dashboardsession.png)
-![Tampilan Json](Images/json.png)
+![Tampilan Session](Images/DashboardSession.png)
+![Tampilan Json](Images/Json.png)
 
 ---
 
