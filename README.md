@@ -53,7 +53,7 @@ Form untuk menambah data baru, dilengkapi validasi error-handling.
 ### 4. Form Edit
 Form untuk memperbarui data kontak yang sudah ada.
 ![Form Edit](Images/Edit.png)
-![Edit Berhasil](Images/EditBerhasil)
+![Edit Berhasil](Images/EditBerhasil.png)
 
 ### 5. Validasi Hapus
 Pesan konfirmasi (alert) sebelum data dihapus secara permanen.
