@@ -48,10 +48,12 @@ Form untuk menambah data baru, dilengkapi validasi error-handling.
 ![Form Tambah](Images/Tambah.png)
 ![Email Gagal](Images/Email.png)
 ![Telepon Gagal](Images/Telepon.png)
+![Berhasil Tambah](Images/BerhasilTambah.png)
 
 ### 4. Form Edit
 Form untuk memperbarui data kontak yang sudah ada.
 ![Form Edit](Images/Edit.png)
+![Edit Berhasil](Images/EditBerhasil)
 
 ### 5. Validasi Hapus
 Pesan konfirmasi (alert) sebelum data dihapus secara permanen.
